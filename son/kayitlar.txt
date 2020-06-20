@@ -1,0 +1,46 @@
+
+***Uzunluk Çevirme Ýþleminiz:***
+
+1,0 Dekametre = 0,010 Kilometre
+
+1,0 Dekametre = 0,100 Hektametre
+
+1,0 Dekametre = 10,000 Metre
+
+1,0 Dekametre = 100,000 Desimetre
+
+1,0 Dekametre = 1000,000 Santimetre
+
+1,0 Dekametre = 10000,000 Milimetre
+
+1,0 Dekametre = 62,100 Mil
+
+***Açý Çevirme Ýþleminiz:***
+
+sinüsü=0,766
+
+cosinüsü=0,643
+
+tanjantý=1,192
+
+cotanjantý=0,839
+
+
+***Para Çevirme Ýþleminiz:***
+
+90,00 Türk Lirasý = 0,00 Dollar
+
+90,00 Türk Lirasý = 0,00 Euro
+
+90,00 Türk Lirasý = 0,00 Sterlin
+
+***Açý Çevirme Ýþleminiz:***
+
+sinüsü=0,500
+
+cosinüsü=0,866
+
+tanjantý=0,577
+
+cotanjantý=1,732
+
